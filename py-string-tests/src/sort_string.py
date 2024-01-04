@@ -7,6 +7,6 @@ def sort_string_chars(string):
 
 # Example usage:
 
-string = "applebanana"
+string = "applebananaa"
 sorted_string = sort_string_chars(string)
 print(sorted_string)  # Output: aaabelnnp
