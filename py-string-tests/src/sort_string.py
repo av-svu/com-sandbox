@@ -6,6 +6,7 @@ def sort_string_chars(string):
   return ''.join(sorted_chars)
 
 # Example usage:
+
 string = "applebanana"
 sorted_string = sort_string_chars(string)
 print(sorted_string)  # Output: aaabelnnp
